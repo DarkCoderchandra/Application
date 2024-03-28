@@ -25,7 +25,7 @@ public class Linktesst {
 		
 		
 		driver.close();
-		
+		driver.close();
 		
 	}
 
